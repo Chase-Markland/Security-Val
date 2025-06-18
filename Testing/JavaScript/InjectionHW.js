@@ -1,5 +1,5 @@
-function helloWorld() {
-  console.log("Hello World");
+try {
+top.alert(document.domain);
+} catch {
+alert(document.domain)
 }
-
-helloWorld(); // Call the function to execute it
