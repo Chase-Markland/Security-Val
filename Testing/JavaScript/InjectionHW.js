@@ -1,5 +1,5 @@
 try {
-top.alert(document.domain);
+  top.alert("Hello, world!");
 } catch {
-alert(document.domain)
+  alert("Hello, world!");
 }
